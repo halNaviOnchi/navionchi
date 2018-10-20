@@ -1,0 +1,13 @@
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map {
+    height: 80%;
+    width: 100%;
+}
+html, body {
+    height: 100%;
+}
+
+.addressForm {
+    margin-top: 3%;
+}
